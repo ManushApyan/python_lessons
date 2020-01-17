@@ -1,0 +1,46 @@
+my_string = 15
+print(my_string)
+my_string = float(my_string)
+print(type(my_string))
+print()
+
+my_text = False
+print(my_text)
+my_text = int(my_text)
+print(type(my_text))
+print()
+
+my_text2 = True
+print(my_text2)
+my_text2 = float(my_text2)
+print(type(my_text2))
+print()
+
+my_text3 = True
+print(my_text3)
+my_text3 = str(my_text3)
+print(my_text3)
+print(type(my_text3))
+print()
+
+my_text4 = 12
+print(my_text4)
+my_text4 = bool(my_text4)
+print(type(my_text4))
+print()
+
+my_text5 = 12.67
+print(my_text5)
+my_text5 = int(my_text5)
+print(my_text5)
+print(type(my_text5))
+print()
+
+
+my_text6 = 18
+print(my_text5)
+my_text5 = float(my_text5)
+print(my_text5)
+print(type(my_text5))
+
+
