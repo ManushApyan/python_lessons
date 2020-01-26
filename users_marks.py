@@ -1,0 +1,8 @@
+first_user_mark = int(input("First users' mark is: "))
+second_user_mark = int(input("Second users' mark is: "))
+third_user_mark = int(input("Third users' mark is: "))
+fourth_user_mark = int(input("Fourth users' mark is: "))
+print("That fact then first user passed the exam is ", first_user_mark>=35)
+print("That fact then second user passed the exam is ", second_user_mark>=35)
+print("That fact then third user passed the exam is ", third_user_mark>=35)
+print("That fact then fourth user passed the exam is ", fourth_user_mark>=35)
